@@ -1,1 +1,1 @@
-
+BikroyBot is a 100% free-tier, automated AI sales agent designed for Bangladeshi e-commerce Facebook Pages and Messenger. It integrates Google Gemini Multimodal AI (gemini-3.6-flash), Supabase Realtime Database, and Meta Graph API to handle customer product inquiries, visual product identification from images, and complete multi-step order booking automatically.
